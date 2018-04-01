@@ -1,0 +1,21 @@
+{
+  "name": "energise",
+  "version": "1.0.0",
+  "description": "JavaScript startrek transporter animation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beyondthepier/energise.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve public"
+  },
+  "author": "Josie Birch",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^6.4.9"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.0"
+  }
+}
